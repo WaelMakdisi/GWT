@@ -1,0 +1,2 @@
+serviceClass: hw2.client.Calc
+path: 6F8155594C0BCCEADA43B90C7DB4B9CC.gwt.rpc
